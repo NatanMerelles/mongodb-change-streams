@@ -1,6 +1,6 @@
-###project to learn mongodb change streams, an event based api, providing a better solution than opt log
+### Project to learn mongodb change streams, an event based api, providing a better solution than opt log
 
-to start this feature is necessary deploy an replica set
+To start this feature is necessary deploy an replica set
 
 references: 
   https://docs.mongodb.com/manual/tutorial/deploy-replica-set-for-testing/
