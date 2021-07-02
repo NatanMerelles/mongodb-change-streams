@@ -2,7 +2,7 @@
 
 To start this feature is necessary deploy an replica set
 
-references: 
-  https://docs.mongodb.com/manual/tutorial/deploy-replica-set-for-testing/
-  https://docs.rocket.chat/installing-and-updating/manual-installation/mongo-replicas
+References: 
+  mongodb: https://docs.mongodb.com/manual/tutorial/deploy-replica-set-for-testing/\
+  rocket.chat: https://docs.rocket.chat/installing-and-updating/manual-installation/mongo-replicas\
 
